@@ -1,3 +1,3 @@
-module github.com/austinmanzo/pokedexcli
+module github.com/austinmanzo/pokedex
 
 go 1.25.5
